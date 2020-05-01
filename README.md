@@ -23,7 +23,7 @@ or for MacOS
 ./ndexcode \PathToSourceFile\hello_sourceFileName.ndx
 
 Check out these images if you need further guidance:
-
+https://github.com/zimspy007/Ndexcode-Binaries/blob/master/images/1%20hello%20world.png
 
 
 ## For more code examples and an introduction to the language, check out the tutorials folder in the repository.

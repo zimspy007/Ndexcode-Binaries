@@ -33,7 +33,7 @@ or for MacOS
 
 For more code examples and an introduction to the language, check out the tutorials folder in the repository. No I mean check out Izibonelo folder.
 
-## The source code is available at 
+## The source code is available at https://github.com/zimspy007/Ndexcode
 
 ## Current State
 The features that are currently implemented are as follows:

@@ -38,17 +38,17 @@ For more code examples and an introduction to the language, check out the tutori
 ## Current State
 The features that are currently implemented are as follows:
 
-Primitive data types Bool, Int and Dub
-All the operators you would expect (+, *, %, :, =, >, <=, &&, etc.)
-Single and multi line comments
-Flow control (if, if/else, while loop, for loop)
-Constants
-Data structs
-Qoqa aka Tuples
-Inani arrays aka Int Arrays
-Functions
-Amabala and various Amabala operations aka String
-User input
-Running system commands
-Interpreter for rapid development and simplicity
-Transpiler to C++ for max performance
+Primitive data types Bool, Int and Dub<br/>
+All the operators you would expect (+, *, %, :, =, >, <=, &&, etc.)<br/>
+Single and multi line comments<br/>
+Flow control (if, if/else, while loop, for loop)<br/>
+Constants<br/>
+Data structs<br/>
+Qoqa aka Tuples<br/>
+Inani arrays aka Int Arrays<br/>
+Functions<br/>
+Amabala and various Amabala operations aka String<br/>
+User input<br/>
+Running system commands<br/>
+Interpreter for rapid development and simplicity<br/>
+Transpiler to C++ for max performance<br/>
